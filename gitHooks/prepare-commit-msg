@@ -1,3 +1,0 @@
-#!/bin/sh
-
-echo "# Testing a default commit message using gitHook! For example -What was the JIRA case number?" > $1
