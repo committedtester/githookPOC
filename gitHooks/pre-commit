@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-console.log(`pre-commit using basic node`)
+console.log(`pre-commit - will write to the console`)
